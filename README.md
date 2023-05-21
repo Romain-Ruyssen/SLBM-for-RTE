@@ -4,5 +4,7 @@
 1. the free stream of a laser beam,
 1. the stream of a pulse in an absorbing and isotropically scattering medium,
 1. the stream of a gaussian pulse in an anisotropically and inhomogeneous medium.
+
 The full description of the three problems can be found in the same article.
- The solution of the first problem can be obtained simply by running the file "main_Laser_problem.m", the second one running "main_Pulse_problem.m" and the third one running "main_HetAni_problem.m".
+
+The solution of the first problem can be obtained simply by running the file "main_Laser_problem.m", the second one running "main_Pulse_problem.m" and the third one running "main_HetAni_problem.m".
