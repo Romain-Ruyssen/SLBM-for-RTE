@@ -1,5 +1,5 @@
 # SLBM-for-RTE
-This code is a MATLAB implementation of a Staggered Lattice Boltzmann Method (SLBM) for the approximation of solutions of the Radiative Transfer Equation (RTE), proposed in the article: "HAL_link"
+This code is a MATLAB implementation of a Staggered Lattice Boltzmann Method (SLBM) for the approximation of solutions of the Radiative Transfer Equation (RTE), proposed in the article: https://hal.science/hal-04101825
   
 The solution of three problems is given:
 1. the free stream of a laser beam,
